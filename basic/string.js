@@ -15,5 +15,9 @@ const gameName = new String('shayan ali shah')
 //console.log(mName.charAt(7));
 
 const newstring = gameName.substring(0,6)
-const anotherString = gameName.slice(-1,5)
-console.log(anotherString)
+const anotherString = gameName.slice(0,8)
+
+
+const newStringOne = '   Habib Ur Rehman'
+console.log(newStringOne);
+//console.console.log(newStringOne.trim());
