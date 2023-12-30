@@ -1,7 +1,7 @@
-const mName = "habib urrehman"
+const mName = 'habib urrehman'
 const repo = 50
 
-console.log('my name is + name');
+console.log('n')
 
 //const gameName = new String('shayan ali shah')
 
