@@ -1,7 +1,8 @@
-const name = "habib urrehman"
-const repoCount = 50
+const mName = "habib urrehman"
+const repo = 50
 
-//onsole.log('Hi, My name is ${name} and my repo count is ${repoCount}');
+console.log('my name is + name');
 
-const gameName = new String('shayan ali shah')
+//const gameName = new String('shayan ali shah')
+
 
