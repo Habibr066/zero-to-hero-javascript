@@ -4,7 +4,8 @@ function celsiusToFahrenheit(celsius) {
 }
 
 // User input for temperature in Celsius (as a string)
-let userInputCelsius = "25";
+let userInputCelsius = "15";
+
 
 // Convert the string input to a number
 let celsius = Number(userInputCelsius);

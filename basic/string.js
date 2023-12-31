@@ -20,4 +20,9 @@ const anotherString = gameName.slice(0,8)
 
 const newStringOne = '   Habib Ur Rehman'
 console.log(newStringOne);
-//console.console.log(newStringOne.trim());
+console.log(newStringOne.trim());
+
+
+
+const url = 'chrome-extension://jgjaeacdkonaoafenlfkkkmbaopkbilf/chatPage.html'
+console.log(url.replace('//', '=='))
