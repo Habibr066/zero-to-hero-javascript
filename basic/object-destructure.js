@@ -11,3 +11,4 @@ const course ={
         }
 
         const {instructor: inst} = course
+        console.log(inst)
