@@ -18,4 +18,15 @@ const regularUser = {
 
 // now accesing through the "Dot Notation" the object elements
 
-console.log(regularUser.fullName)
+/*console.log(regularUser.fullName)
+console.log("------------------------")
+
+console.log(regularUser.lastName)
+*/
+
+const obj1 = {1:"a", 2:"b", 3:"c" }
+const obj2 = {4:"x", 5:"y", 6:"y" }
+
+const obj3 = Object.assign(obj1,obj2)
+
+console.log(obj3)
