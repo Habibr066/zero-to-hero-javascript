@@ -7,7 +7,7 @@ const course ={
         name:"saqib khan",
         email:"saqib@gmail.com"
         },
-        price: 3890,
-        
-    
+        price: '3890',
         }
+
+        const {instructor: inst} = course
