@@ -48,3 +48,10 @@ const users = [ {},
 // now accessing through "Objects.key(nameof-objects)"
 
 console.log(Object.keys(tinderUser))
+
+//mehtod "object.value"
+
+console.log(Object.values(tinderUser))
+
+//search the property in tinderUser "hasownproperty"
+console.log(Object.hasOwnProperty('isLoggin'))
