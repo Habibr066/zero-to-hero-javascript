@@ -14,4 +14,8 @@ const regularUser = {
         }
     }
 }
-console.log(regularUser)
+//console.log(regularUser)
+
+// now accesing through the "Dot Notation" the object elements
+
+console.log(regularUser.fullName)
